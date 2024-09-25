@@ -44,11 +44,10 @@ Developed by [**Muhammad Aammar Tufail (PhD)**](https://github.com/AammarTufail)
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourUsername/GrowthCurveVisualization.git
-   cd GrowthCurveVisualization
+   git clone https://github.com/AammarTufail/growth_curve_phenotype_data_viz_app
+   cd growth_curve_phenotype_data_viz_app
    ```
 
-   *Replace `YourUsername` with the actual GitHub username if applicable.*
 
 2. **Create a Virtual Environment (Optional but Recommended)**
 
@@ -144,13 +143,13 @@ Developed by [**Muhammad Aammar Tufail (PhD)**](https://github.com/AammarTufail)
 - **`requirements.txt` File**:
 
   ```plaintext
-  streamlit
-  pandas
-  numpy
-  matplotlib
-  seaborn
-  openpyxl
-  xlsxwriter
+    streamlit==1.36.0
+    pandas==2.2.0
+    numpy==1.26.4
+    matplotlib==3.8.3
+    seaborn==0.13.2
+    openpyxl==3.1.2
+    xlsxwriter==3.2.0
   ```
 
   *You can install all dependencies using:*
@@ -172,8 +171,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions, suggestions, or contributions, please contact:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [https://github.com/YourUsername/GrowthCurveVisualization](https://github.com/YourUsername/GrowthCurveVisualization)
+- **Email**: [your.email@example.com](mailto:m.aammar.tufail@gmail.com)
+- **GitHub**: [https://github.com/AammarTufail/growth_curve_phenotype_data_viz_app](https://github.com/AammarTufail/growth_curve_phenotype_data_viz_app)
 
 *Feel free to open an issue or pull request if you encounter any problems or have ideas for enhancements.*
 
